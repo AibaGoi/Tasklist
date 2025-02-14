@@ -54,8 +54,3 @@ next environments:
 - `SPRING_MAIL_PASSWORD` - password of mail server
 
 You can use example `.env.example` file with some predefined environments.
-
-## Guide
-
-You can find step-by-step creating of this
-project [here](https://www.youtube.com/playlist?list=PL3Ur78l82EFD8OKSulH3NaK1As4G7YWMJ).
